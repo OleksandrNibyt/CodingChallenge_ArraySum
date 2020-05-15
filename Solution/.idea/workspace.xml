@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7253e542-0f09-4175-bdc5-30231a99787c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1b0Pd6q1G1DUr9EUGWzU6P8VT9P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Solution" />
+      <module name="Solution" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7253e542-0f09-4175-bdc5-30231a99787c" name="Default Changelist" comment="" />
+      <created>1587766121806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587766121806</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587766389959">
+      <screen x="0" y="23" width="2048" height="1089" />
+    </state>
+    <state x="528" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2048.1089@0.23.2048.1089" timestamp="1587766389959" />
+    <state width="1335" height="217" key="GridCell.Tab.0.bottom" timestamp="1589565936582">
+      <screen x="0" y="23" width="2048" height="1089" />
+    </state>
+    <state width="1335" height="217" key="GridCell.Tab.0.bottom/0.23.2048.1089@0.23.2048.1089" timestamp="1589565936582" />
+    <state width="1335" height="217" key="GridCell.Tab.0.center" timestamp="1589565936581">
+      <screen x="0" y="23" width="2048" height="1089" />
+    </state>
+    <state width="1335" height="217" key="GridCell.Tab.0.center/0.23.2048.1089@0.23.2048.1089" timestamp="1589565936581" />
+    <state width="1335" height="217" key="GridCell.Tab.0.left" timestamp="1589565936580">
+      <screen x="0" y="23" width="2048" height="1089" />
+    </state>
+    <state width="1335" height="217" key="GridCell.Tab.0.left/0.23.2048.1089@0.23.2048.1089" timestamp="1589565936580" />
+    <state width="1335" height="217" key="GridCell.Tab.0.right" timestamp="1589565936582">
+      <screen x="0" y="23" width="2048" height="1089" />
+    </state>
+    <state width="1335" height="217" key="GridCell.Tab.0.right/0.23.2048.1089@0.23.2048.1089" timestamp="1589565936582" />
+    <state x="464" y="123" width="1177" height="637" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587769183578">
+      <screen x="0" y="23" width="2048" height="1089" />
+    </state>
+    <state x="464" y="123" width="1177" height="637" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2048.1089@0.23.2048.1089" timestamp="1587769183578" />
+    <state x="717" y="203" width="670" height="676" key="search.everywhere.popup" timestamp="1587766981102">
+      <screen x="0" y="23" width="2048" height="1089" />
+    </state>
+    <state x="717" y="203" width="670" height="676" key="search.everywhere.popup/0.23.2048.1089@0.23.2048.1089" timestamp="1587766981102" />
+  </component>
+</project>
